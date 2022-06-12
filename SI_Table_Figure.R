@@ -18,7 +18,7 @@ par(omi = c(0.1,0.1,0.1,0.1), mai = c(0.75,1.25,0,0))
 #Vertebrates
 plot(verts$position ~ log10(verts$begin), 
      yaxt = 'n', xaxt = 'n', xlab = "", ylab = "",
-     xlim = c(log10(0.00007),log10(2000)), ylim = c(0,104),
+     xlim = c(log10(0.00007),log10(2000)), ylim = c(0,115),
      pch = 15, cex = 0.65, col = verts$tissueColor, bty = 'n')
 
 polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
@@ -29,24 +29,33 @@ polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
         c(19,19,34,34), col = "gray90", border = NA)
 polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
         c(35,35,40,40), col = "gray90", border = NA)
+#bivalves
 polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
         c(41,41,55,55), col = "gray90", border = NA)
+#gastropod
 polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
-        c(56,56,70,70), col = "gray90", border = NA)
-polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
-        c(71,71,75,75), col = "gray90", border = NA)
+        c(56,56,75,75), col = "gray90", border = NA)
+#chironomids
 polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
         c(76,76,80,80), col = "gray90", border = NA)
+#decapod
 polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
-        c(81,81,84,84), col = "gray90", border = NA)
+        c(81,81,87,87), col = "gray90", border = NA)
+#oligochaete
 polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
-        c(85,85,91,91), col = "gray90", border = NA)
+        c(88,88,91,91), col = "gray90", border = NA)
+#zooplankton
 polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
-        c(92,92,95,95), col = "gray90", border = NA)
+        c(92,92,100,100), col = "gray90", border = NA)
+#fish
 polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
-        c(96,96,100,100), col = "gray90", border = NA)
+        c(101,101,103,103), col = "gray90", border = NA)
+#reptiles & amphibians
 polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
-        c(101,101,104,104), col = "gray90", border = NA)
+        c(105,105,110,110), col = "gray90", border = NA)
+#bird
+polygon(c(log10(0.00007),log10(2000), log10(2000), log10(0.00007)),
+        c(111,111,114,114), col = "gray90", border = NA)
 
 points(verts$position ~ log10(verts$begin), 
        pch = 19, cex = 0.65, col = verts$tissueColor)
@@ -103,3 +112,5 @@ axis(side = 1,
                 "100","","","","","","","","",
                 "1000",""), las = 2)
 
+fresh = pools_rates %>% filter(unitNote=="freshWeight")
+points(fresh$position ~ log10(fresh$freshAsterisk), pch = "*")
