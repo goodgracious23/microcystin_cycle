@@ -13,7 +13,7 @@ position,type,majorGroup,group,tissue,tissueColor,units,unitNote,sTable,begin,en
 12,pool,sediment,bulkSediment,abiotic,#8c510a,ug g-1 dw,dryWeight,4,0.08,2.33,,
 15,pool,sediment,biofilm,abiotic,#d8b365,ug g-1 dw,dryWeight,4,0.055,1.032,,
 16,pool,sediment,biofilm,abiotic,#d8b365,ug g-1 dw,dryWeight,4,1,16,,
-17,pool,sediment,biofilm,abiotic,#d8b365,ug g-1 dw,dryWeight,4,2.1,2.1,,
+17,pool,sediment,biofilm,abiotic,#d8b365,ug g-1 dw,dryWeight,4,0.002,0.002,,
 20,pool,macrophyte,macrophyteTissue,abiotic,#01665e,ug g-1 fw,freshWeight,5,0.0001,0.35,1,"original begin value was 0, changed to 0.0001 for plotting"
 21,pool,macrophyte,macrophyteTissue,abiotic,#01665e,ug g-1 fw,freshWeight,5,0.0007,0.0014,0.01,
 22,pool,macrophyte,macrophyteTissue,abiotic,#01665e,ug g-1 fw,freshWeight,5,0.0007,0.0014,0.01,

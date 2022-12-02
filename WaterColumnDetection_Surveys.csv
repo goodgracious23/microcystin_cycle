@@ -1,70 +1,70 @@
-Citation,WaterbodiesSampled,NumberSamples,WaterbodiesSamples_MCDetection,PercentDetection,DetectMethod,DetectColors,Notes
-(Lindholm et al. 2003),55,,4,7.3,waterbodies,skyblue4,Survey conducted in 1999
-(Lindholm et al. 2003),134,,14,10.4,waterbodies,skyblue4,Survey conducted in 2000
-(Hirooka et al. 1999),50,50,9 samples,18,samples,aquamarine3,
-(Cook et al. 2004),33,,7,21.2,waterbodies,skyblue4,
-(Howard et al. 2017),52,,13,25.4,waterbodies,skyblue4,"depressional wetland sites, detection from all three years combined"
-(Frank 2002),155,,40,26,waterbodies,skyblue4,
-(Loftin et al. 2016),1161,1252,400 samples,32,samples,aquamarine3,"only reported detections based on samples, but most lakes sampled once; note that (Beaver et al. 2014) only reported detections above 1 �g L-1 for the same survey"
-(Kaggwa et al. 2018),9,,3,33.3,waterbodies,skyblue4,
-(Mohamed and Al Shehri 2007),30,,11,36.7,waterbodies,skyblue4,"30 reservoirs, 15 covered (no detects) and 15 open reservoirs"
-(Bigham et al. 2009),187,,69,36.9,waterbodies,skyblue4,Based on information provided in Table 2
-(Zagajewski et al. 2009),10,,4,40,waterbodies,skyblue4,
-(Orihel et al. 2012),246,,101,41,waterbodies,skyblue4,"exceeded WHO guideline of >1 ug/L, not total detection"
-(Mrdjen et al. 2018),24,,10,41.7,waterbodies,skyblue4,from supplemental info table
-(Okello et al. 2009),12,,5,41.7,waterbodies,skyblue4,Includes 3 sites in Lake Victoria from geographically separated bays
-(Kotak et al. 1993),14,,6,42.9,waterbodies,skyblue4,
-(Balode et al. 2006),14,,7,50,waterbodies,skyblue4,"Sampled over many years, usually monthly"
-(Pavlova et al. 2006),12,,6,50,waterbodies,skyblue4,"12 lakes investigated, 6 lakes sampled, 8 samples from those lakes all had detectable microcystin concentrations"
-(Boyer 2007),81,2286,1155 samples,50.5,samples,aquamarine3,
-(Turner et al. 2018),70,137,72 samples,53,samples,aquamarine3,only reported based on the number of samples above 0.2 ug/L
-(Willame et al. 2005),32,32,17 samples,53.1,samples,aquamarine3,"Despite surveying 250 lakes and sampling 49, only quantified microcystin concentration in 32 waterbodies"
-(Carrasco et al. 2006),7,,4,57.1,waterbodies,skyblue4,
-(Graham and Jones 2009),177,,103,58.2,waterbodies,skyblue4,
-(Kotak and Zurawell 2007),180,900,558 samples,62,samples,aquamarine3,
-(Menezes et al. 2017),8,,5,62.5,waterbodies,skyblue4,Based on hundreds of samples collected from 2000-2015
-(Hayes and Vanni 2018),136,195,125 samples,64.1,samples,aquamarine3,
-(Barros et al. 2019),20,,13,65,waterbodies,skyblue4,samples taken over multiple years
-(Bl�hov� et al. 2007),91,206,145 samples,70.4,samples,aquamarine3,
-(Bittencourt-Oliveira et al. 2012),7,,5,71.4,waterbodies,skyblue4,"7 reservoirs sampled 27 times, 5 reservoirs had quantifiable MC using HPLC"
-(Fastner et al. 1999),55,533,385 samples,72,samples,aquamarine3,
-(Heiskary et al. 2014),277,,199,72,waterbodies,skyblue4,
-(Koker et al. 2017),18,,13,72.2,waterbodies,skyblue4,
-(Bl�hov� et al. 2008),70,,53,75,waterbodies,skyblue4,
-(Park et al. 1998),12,,9,75,waterbodies,skyblue4,based on information presented in Table 2
-(Kobos et al. 2013),98,,74,75.5,waterbodies,skyblue4,"from table of literature synthesis, not new data in this study"
-(Kobos et al. 2013),21,,18,85.7,waterbodies,skyblue4,Only the new data presented in this study
-(Graham et al. 2004),241,,188,78,waterbodies,skyblue4,
-(Christophoridis et al. 2018),14,,11,78.6,waterbodies,skyblue4,based on information presented in Table 1
-(Vezie et al. 1997),29,,25,86.2,waterbodies,skyblue4,
-(Faassen and L�rling 2013),86,88,77 samples,87.5,samples,aquamarine3,used 88 samples because no indication which lakes were sampled twice
-(Gkelis et al. 2015),36,,33,91,waterbodies,skyblue4,
-(Messineo et al. 2009),28,,26,92.9,waterbodies,skyblue4,based on the data in figures 2-3
-(Jan?ula et al. 2014),19,,18,94.7,waterbodies,skyblue4,
-(Beversdorf et al. 2017),6,,6,100,waterbodies,skyblue4,
-(Bukowska et al. 2017),7,,7,100,waterbodies,skyblue4,
-(Carrasco et al. 2006),7,,7,100,waterbodies,skyblue4,in 2003 all 7 reservoirs had detectable MC
-(Gkelis et al. 2005),7,,7,100,waterbodies,skyblue4,"sampled blooms only, found MC in all samples"
-(Jacoby et al. 2015),9,,9,100,waterbodies,skyblue4,MC detected at least once in each lake
-(Kemp and John 2006),13,,13,100,waterbodies,skyblue4,wetlands
-(Lorenzi et al. 2018),11,,11,100,waterbodies,skyblue4,
-(Mohamed et al. 2016),6,,36,100,waterbodies,skyblue4,
-(Okello et al. 2010),5,,5,100,waterbodies,skyblue4,
-(Prakash et al. 2009),5,,5,100,waterbodies,skyblue4,
-(Trout-Haney et al. 2016),18,,18,100,waterbodies,skyblue4,
-(Boutte et al. 2008),11,,11,100,waterbodies,skyblue4,
-(Cerasino and Salmaso 2012),9,,9,100,waterbodies,skyblue4,data from Table 3
-(Farkas et al. 2014),14,,14,100,waterbodies,skyblue4,
-(Fromme et al. 2000),,,,100,waterbodies,skyblue4,"did not report the number of samples or lakes, just that there was 100% detection "
-(Giani et al. 2005),22,,22,100,waterbodies,skyblue4,
-(Gkelis and Zaoutsos 2014),6,,6,100,waterbodies,skyblue4,
-(Haddix et al. 2007),33,,33,100,waterbodies,skyblue4,biweekly sampling of raw water sources
-(Kotak 2000),13,,13,100,waterbodies,skyblue4,
-(Lindon and Heiskary 2009),12,,12,100,waterbodies,skyblue4,
-(Mankiewicz et al. 2005),7,,7,100,waterbodies,skyblue4,
-(Mazur-Marzec et al. 2008),7,,7,100,waterbodies,skyblue4,
-(Mooney et al. 2011),14,,14,100,waterbodies,skyblue4,
-(Poste et al. 2013),8,,8,100,waterbodies,skyblue4,
-(Sinang et al. 2015),10,,10,100,waterbodies,skyblue4,
-(Vasconcelos et al. 1996),9,,9,100,waterbodies,skyblue4,collected/targeted bloom samples
-(Wu et al. 2015),30,,30,100,waterbodies,skyblue4,
+﻿Citation,WaterbodiesSampled,NumberSamples,WaterbodiesSamples_MCDetection,PercentDetection,DetectMethod,DetectColors,SurveyStyle,Notes
+"Balode, M., I. Purina, S. Strake, S. Purvina, M. Pfeifere, I. Barda, and K. Povidisa. 2006. Toxic cyanobacteria in the lakes located in R?ga (the capital of Latvia) and its surroundings: present state of knowledge. African Journal of Marine Science 28: 225–230. doi:10.2989/18142320609504152",14,,7,50,waterbodies,skyblue4,repeat,"Sampled over many years, usually monthly"
+"Barros, M. U. G., A. E. Wilson, J. I. R. Leitão, S. P. Pereira, R. P. Buley, E. G. Fernandez-Figueroa, and J. Capelo-Neto. 2019. Environmental factors associated with toxic cyanobacterial blooms across 20 drinking water reservoirs in a semi-arid region of Brazil. Harmful Algae 86: 128–137. doi:10.1016/j.hal.2019.05.006",20,,13,65,waterbodies,skyblue4,repeat,samples taken over multiple years
+"Beversdorf, L., C. Weirich, S. Bartlett, and Todd. Miller. 2017. Variable Cyanobacterial Toxin and Metabolite Profiles across Six Eutrophic Lakes of Differing Physiochemical Characteristics. Toxins 9: 62. doi:10.3390/toxins9020062",6,,6,100,waterbodies,skyblue4,repeat,
+"Bigham, D. L., M. V. Hoyer, and D. E. Canfield. 2009. Survey of toxic algal (microcystin) distribution in Florida lakes. Lake and Reservoir Management 25: 264–275. doi:10.1080/07438140903136555",187,,69,36.9,waterbodies,skyblue4,repeat,Based on information provided in Table 2
+"Bittencourt-Oliveira, M. do C., V. Piccin-Santos, and S. Gouvêa-Barros. 2012. Microcystin-producing genotypes from cyanobacteria in Brazilian reservoirs. Environ. Toxicol. 27: 461–471. doi:10.1002/tox.20659",7,,5,71.4,waterbodies,skyblue4,repeat,"7 reservoirs sampled 27 times, 5 reservoirs had quantifiable MC using HPLC"
+"Bláhová, L., P. Babica, E. Maršálková, B. Maršálek, and L. Bláha. 2007. Concentrations and Seasonal Trends of Extracellular Microcystins in Freshwaters of the Czech Republic – Results of the National Monitoring Program. Clean Soil Air Water 35: 348–354. doi:10.1002/clen.200700010",91,206,145,70.4,samples,aquamarine3,snapshot,
+"Bláhová, L., P. Babica, O. Adamovský, J. Kohoutek, B. Maršálek, and L. Bláha. 2008. Analyses of cyanobacterial toxins (microcystins, cylindrospermopsin) in the reservoirs of the Czech Republic and evaluation of health risks. Environ Chem Lett 6: 223–227. doi:10.1007/s10311-007-0126-x",70,,53,75,waterbodies,skyblue4,snapshot,
+"Boutte, C., J. Mankiewicz-Boczek, J. Komarkova, and others. 2008. Diversity of planktonic cyanobacteria and microcystin occurrence in Polish water bodies investigated using a polyphasic approach. Aquat. Microb. Ecol. 51: 223–236. doi:10.3354/ame01194",11,,11,100,waterbodies,skyblue4,repeat,
+"Boyer, G. L. 2007. The occurrence of cyanobacterial toxins in New York lakes: Lessons from the MERHAB-Lower Great Lakes program. Lake and Reservoir Management 23: 153–160. doi:10.1080/07438140709353918",81,2286,1155,50.5,samples,aquamarine3,repeat,
+"Bukowska, A., T. Kali?ski, M. Koper, I. Kostrzewska-Szlakowska, J. Kwiatowski, H. Mazur-Marzec, and I. Jasser. 2017. Predicting blooms of toxic cyanobacteria in eutrophic lakes with diverse cyanobacterial communities. Sci Rep 7: 8342. doi:10.1038/s41598-017-08701-8",7,,7,100,waterbodies,skyblue4,repeat,
+"Carrasco, D., E. Moreno, D. Sanchis, L. Wörmer, T. Paniagua, A. Del Cueto, and A. Quesada. 2006. Cyanobacterial abundance and microcystin occurrence in Mediterranean water reservoirs in Central Spain: microcystins in the Madrid area. European Journal of Phycology 41: 281–291. doi:10.1080/09670260600801724",7,,4,57.1,waterbodies,skyblue4,repeat,
+"Carrasco, D., E. Moreno, D. Sanchis, L. Wörmer, T. Paniagua, A. Del Cueto, and A. Quesada. 2006. Cyanobacterial abundance and microcystin occurrence in Mediterranean water reservoirs in Central Spain: microcystins in the Madrid area. European Journal of Phycology 41: 281–291. doi:10.1080/09670260600801724",7,,7,100,waterbodies,skyblue4,repeat,in 2003 all 7 reservoirs had detectable MC
+"Cerasino, L., and N. Salmaso. 2012. Diversity and distribution of cyanobacterial toxins in the Italian subalpine lacustrine district. Oceanological and Hydrobiological Studies 41: 54–63. doi:10.2478/s13545-012-0028-9",9,,9,100,waterbodies,skyblue4,repeat,data from Table 3
+"Christophoridis, C., S.-K. Zervou, K. Manolidi, M. Katsiapi, M. Moustaka-Gouni, T. Kaloudis, T. M. Triantis, and A. Hiskia. 2018. Occurrence and diversity of cyanotoxins in Greek lakes. Sci Rep 8: 17877. doi:10.1038/s41598-018-35428-x",14,,11,78.6,waterbodies,skyblue4,mix,based on information presented in Table 1
+"Cook, C. M., E. Vardaka, and T. Lanaras. 2004. Toxic Cyanobacteria in Greek Freshwaters, 1987—2000: Occurrence, Toxicity, and Impacts in the Mediterranean Region. Acta hydrochim. hydrobiol. 32: 107–124. doi:10.1002/aheh.200300523",33,,7,21.2,waterbodies,skyblue4,repeat,
+"Faassen, E., and M. Lürling. 2013. Occurrence of the Microcystins MC-LW and MC-LF in Dutch Surface Waters and Their Contribution to Total Microcystin Toxicity. Marine Drugs 11: 2643–2654. doi:10.3390/md11072643",86,88,77,87.5,samples,aquamarine3,snapshot,used 88 samples because no indication which lakes were sampled twice
+"Farkas, O., G. Gyémant, G. Hajdú, S. Gonda, P. Parizsa, T. Horgos, Á. Mosolygó, and G. Vasas. 2014. Variability of microcystins and its synthetase gene cluster in Microcystis and Planktothrix waterblooms in shallow lakes of Hungary. Acta Biologica Hungarica 65: 227–239. doi:10.1556/ABiol.65.2014.2.10",14,,14,100,waterbodies,skyblue4,snapshot,
+"Fastner, J., U. Neumann, B. Wirsing, J. Weckesser, C. Wiedner, B. Nixdorf, and I. Chorus. 1999. Microcystins (hepatotoxic heptapeptides) in german fresh water bodies. Environ. Toxicol. 14: 13–22. doi:10.1002/(SICI)1522-7278(199902)14:1<13::AID-TOX4>3.0.CO;2-D",55,533,385,72,samples,aquamarine3,repeat,
+"Frank, C. 2002. Microcystin-producing cyanobacteria in recreational waters in southwestern Germany. Environmental toxicology 17: 361–366. doi:10.1002/tox.10068",155,,40,26,waterbodies,skyblue4,snapshot,
+"Fromme, H., A. Kohler, R. Krause, and D. Fuhrling. 2000. Occurrence of cyanobacterial toxins?microcystins and anatoxin-a?in Berlin water bodies with implications to human health and regulations. Environ. Toxicol. 15: 120–130. doi:10.1002/(SICI)1522-7278(2000)15:2<120::AID-TOX8>3.0.CO;2-X",,,,100,waterbodies,skyblue4,,"did not report the number of samples or lakes, just that there was 100% detection "
+"Giani, A., D. F. Bird, Y. T. Prairie, and J. F. Lawrence. 2005. Empirical study of cyanobacterial toxicity along a trophic gradient of lakes. Can. J. Fish. Aquat. Sci. 62: 2100–2109. doi:10.1139/f05-124",22,,22,100,waterbodies,skyblue4,snapshot,
+"Gkelis, S., and N. Zaoutsos. 2014. Cyanotoxin occurrence and potentially toxin producing cyanobacteria in freshwaters of Greece: A multi-disciplinary approach. Toxicon 78: 1–9. doi:10.1016/j.toxicon.2013.11.010",6,,6,100,waterbodies,skyblue4,repeat,
+"Gkelis, S., V. Harjunpää, T. Lanaras, and K. Sivonen. 2005. Diversity of hepatotoxic microcystins and bioactive anabaenopeptins in cyanobacterial blooms from Greek freshwaters. Environ. Toxicol. 20: 249–256. doi:10.1002/tox.20105",7,,7,100,waterbodies,skyblue4,repeat,"sampled blooms only, found MC in all samples"
+"Gkelis, S., T. Lanaras, and K. Sivonen. 2015. Cyanobacterial Toxic and Bioactive Peptides in Freshwater Bodies of Greece: Concentrations, Occurrence Patterns, and Implications for Human Health. Marine Drugs 13: 6319–6335. doi:10.3390/md13106319",36,,33,91,waterbodies,skyblue4,mix,
+"Graham, J. L., and J. R. Jones. 2009. Microcystin in Missouri reservoirs. Lake and Reservoir Management 25: 253–263. doi:10.1080/07438140903143239",177,,103,58.2,waterbodies,skyblue4,repeat,
+"Graham, J. L., J. R. Jones, S. B. Jones, J. A. Downing, and T. E. Clevenger. 2004. Environmental factors influencing microcystin distribution and concentration in the Midwestern United States. Water Research 38: 4395–4404. doi:10.1016/j.watres.2004.08.004",241,,188,78,waterbodies,skyblue4,repeat,
+"Haddix, P. L., C. J. Hughley, and M. W. Lechevallier. 2007. Occurrence of microcystins in 33 US water supplies. Journal - American Water Works Association 99: 118–125. doi:10.1002/j.1551-8833.2007.tb08033.x",33,,33,100,waterbodies,skyblue4,repeat,biweekly sampling of raw water sources
+"Hayes, N. M., and M. J. Vanni. 2018. Microcystin concentrations can be predicted with phytoplankton biomass and watershed morphology. Inland Waters 8: 273–283. doi:10.1080/20442041.2018.1446408",136,195,125,64.1,samples,aquamarine3,mix,
+"Heiskary, S., M. Lindon, and J. Anderson. 2014. Summary of microcystin concentrations in Minnesota lakes. Lake and Reservoir Management 30: 268–272. doi:10.1080/10402381.2014.917347",277,,209,75,waterbodies,skyblue4,snapshot,
+"Hirooka, E. Y., M. H. P. Pinotti, T. Tsutsumi, F. Yoshida, and Y. Ueno. 1999. Survey of Microcystins in water between 1995 and 1996 in Paraná, Brazil using ELISA. Nat. Toxins 7: 103–109. doi:10.1002/(SICI)1522-7189(199905/06)7:3<103::AID-NT47>3.0.CO;2-D",50,50,9,18,samples,aquamarine3,snapshot,
+"Howard, M., C. Nagoda, R. Kudela, and others. 2017. Microcystin Prevalence throughout Lentic Waterbodies in Coastal Southern California. Toxins 9: 231. doi:10.3390/toxins9070231",52,,13,25.4,waterbodies,skyblue4,snapshot,"depressional wetland sites, detection from all three years combined"
+"Jacoby, J., M. Burghdoff, G. Williams, L. Read, and J. Hardy. 2015. Dominant factors associated with microcystins in nine midlatitude, maritime lakes. IW 5: 187–202. doi:10.5268/IW-5.2.808",9,,9,100,waterbodies,skyblue4,repeat,MC detected at least once in each lake
+"Jan?ula, D., L. Straková, J. Sadílek, B. Maršálek, and P. Babica. 2014. Survey of cyanobacterial toxins in Czech water reservoirs—the first observation of neurotoxic saxitoxins. Environ Sci Pollut Res 21: 8006–8015. doi:10.1007/s11356-014-2699-9",19,,18,94.7,waterbodies,skyblue4,snapshot,
+"Kaggwa, M., N. Straubinger-Gansberger, and M. Schagerl. 2018. Cyanotoxins in small artificial dams in Kenya utilised for cage fish farming – a threat to local people? African Journal of Aquatic Science 43: 123–129. doi:10.2989/16085914.2018.1470084",9,,3,33.3,waterbodies,skyblue4,repeat,
+"Kemp, A., and J. John. 2006. Microcystins associated withMicrocystis dominated blooms in the Southwest wetlands, Western Australia. Environ. Toxicol. 21: 125–130. doi:10.1002/tox.20164",13,,13,100,waterbodies,skyblue4,repeat,wetlands
+"Kobos, J., A. B?aszczyk, N. Hohlfeld, and others. 2013. Cyanobacteria and cyanotoxins in Polish freshwater bodies. Oceanological and Hydrobiological Studies 42: 358–378. doi:10.2478/s13545-013-0093-8",98,,74,75.5,waterbodies,skyblue4,mix,"from table of literature synthesis, not new data in this study"
+"Kobos, J., A. B?aszczyk, N. Hohlfeld, and others. 2013. Cyanobacteria and cyanotoxins in Polish freshwater bodies. Oceanological and Hydrobiological Studies 42: 358–378. doi:10.2478/s13545-013-0093-8",21,,18,85.7,waterbodies,skyblue4,snapshot,Only the new data presented in this study
+"Koker, L., R. Akcaalan, A. Oguz, and others. 2017. Distribution of toxic cyanobacteria and cyanotoxins in Turkish waterbodies. 9.",18,,13,72.2,waterbodies,skyblue4,repeat,
+"Kotak, B. G. 2000. Role of chemical and physical variables in regulating microcystin-LR concentration in phytoplankton of eutrophic lakes. 57: 10.",13,,13,100,waterbodies,skyblue4,repeat,
+"Kotak, B. G., and R. W. Zurawell. 2007. Cyanobacterial toxins in Canadian freshwaters: A review. Lake and Reservoir Management 23: 109–122. doi:10.1080/07438140709353915",180,900,558,62,samples,aquamarine3,repeat,
+"Kotak, B. G., S. L. Kenefick, D. L. Fritz, C. G. Rousseaux, E. E. Prepas, and S. E. Hrudey. 1993. Occurrence and toxicological evaluation of cyanobacterial toxins in Alberta lakes and farm dugouts. Water Research 27: 495–506. doi:10.1016/0043-1354(93)90050-R",14,,6,42.9,waterbodies,skyblue4,mix,
+"Lindholm, T., P. Vesterkvist, L. Spoof, C. Lundberg-Niinistö, and J. Meriluoto. 2003. Microcystin occurrence in lakes in Åland, SW Finland. Hydrobiologia 505: 129–138. doi:10.1023/B:HYDR.0000007301.89200.ad",55,,4,7.3,waterbodies,skyblue4,snapshot,Survey conducted in 1999
+"Lindholm, T., P. Vesterkvist, L. Spoof, C. Lundberg-Niinistö, and J. Meriluoto. 2003. Microcystin occurrence in lakes in Åland, SW Finland. Hydrobiologia 505: 129–138. doi:10.1023/B:HYDR.0000007301.89200.ad",134,,14,10.4,waterbodies,skyblue4,snapshot,Survey conducted in 2000
+"Lindon, M., and S. Heiskary. 2009. Blue-green algal toxin (microcystin) levels in Minnesota lakes. Lake and Reservoir Management 25: 240–252. doi:10.1080/07438140903032424",12,,12,100,waterbodies,skyblue4,repeat,
+"Loftin, K. A., J. L. Graham, E. D. Hilborn, S. C. Lehmann, M. T. Meyer, J. E. Dietze, and C. B. Griffith. 2016. Cyanotoxins in inland lakes of the United States: Occurrence and potential recreational health risks in the EPA National Lakes Assessment 2007. Harmful Algae 56: 77–90. doi:10.1016/j.hal.2016.04.001",1161,1252,400,32,samples,aquamarine3,snapshot,"only reported detections based on samples, but most lakes sampled once; note that (Beaver et al. 2014) only reported detections above 1 µg L-1 for the same survey"
+"Lorenzi, A. S., M. K. Cordeiro-Araújo, M. A. Chia, and M. do C. Bittencourt-Oliveira. 2018. Cyanotoxin contamination of semiarid drinking water supply reservoirs. Environ Earth Sci 77: 595. doi:10.1007/s12665-018-7774-y",11,,11,100,waterbodies,skyblue4,repeat,
+"Mankiewicz, J., J. Komárková, K. Izydorczyk, T. Jurczak, M. Tarczynska, and M. Zalewski. 2005. Hepatotoxic cyanobacterial blooms in the lakes of northern Poland. Environ. Toxicol. 20: 499–506. doi:10.1002/tox.20138",7,,7,100,waterbodies,skyblue4,snapshot,
+"Mazur-Marzec, H., L. Spoof, J. Kobos, M. Pli?ski, and J. Meriluoto. 2008. Cyanobacterial hepatotoxins, microcystins and nodularins, in fresh and brackish waters of the Pomeranian Province, northern Poland. Oceanological and Hydrobiological Studies 37: 3–21. doi:10.2478/v10009-008-0014-0",7,,7,100,waterbodies,skyblue4,snapshot,
+"Menezes, C., C. Churro, and E. Dias. 2017. Risk Levels of Toxic Cyanobacteria in Portuguese Recreational Freshwaters. Toxins 9: 327. doi:10.3390/toxins9100327",8,,5,62.5,waterbodies,skyblue4,repeat,Based on hundreds of samples collected from 2000-2015
+"Messineo, V., S. Bogialli, S. Melchiorre, and others. 2009. Cyanobacterial toxins in Italian freshwaters. Limnologica 39: 95–106. doi:10.1016/j.limno.2008.09.001",28,,26,92.9,waterbodies,skyblue4,repeat,based on the data in figures 2-3
+"Mohamed, Z. A., and A. M. Al Shehri. 2007. Cyanobacteria and their toxins in treated-water storage reservoirs in Abha city, Saudi Arabia. Toxicon 50: 75–84. doi:10.1016/j.toxicon.2007.02.021",30,,11,36.7,waterbodies,skyblue4,snapshot,"30 reservoirs, 15 covered (no detects) and 15 open reservoirs"
+"Mohamed, Z. A., M. A. Deyab, M. I. Abou-Dobara, and W. M. El-Raghi. 2016. Occurrence of toxic cyanobacteria and microcystin toxin in domestic water storage reservoirs, Egypt. Journal of Water Supply: Research and Technology-Aqua 65: 431–440. doi:10.2166/aqua.2016.115",6,,36,100,waterbodies,skyblue4,repeat,
+"Mooney, K. M., J. T. G. Hamilton, S. D. Floyd, R. H. Foy, and C. T. Elliott. 2011. Initial studies on the occurrence of cyanobacteria and microcystins in Irish lakes. Environ. Toxicol. 26: 566–570. doi:10.1002/tox.20577",14,,14,100,waterbodies,skyblue4,snapshot,
+"Mrdjen, I., S. Fennessy, A. Schaal, R. Dennis, J. L. Slonczewski, S. Lee, and J. Lee. 2018. Tile Drainage and Anthropogenic Land Use Contribute to Harmful Algal Blooms and Microbiota Shifts in Inland Water Bodies. Environ. Sci. Technol. 52: 8215–8223. doi:10.1021/acs.est.8b03269",24,,10,41.7,waterbodies,skyblue4,snapshot,from supplemental info table
+"Okello, W., C. Portmann, M. Erhard, K. Gademann, and R. Kurmayer. 2009. Occurrence of microcystin-producing cyanobacteria in Ugandan freshwater habitats. Environ. Toxicol. 25: 367–380. doi:10.1002/tox.20522",12,,5,41.7,waterbodies,skyblue4,snapshot,Includes 3 sites in Lake Victoria from geographically separated bays
+"Okello, W., V. Ostermaier, C. Portmann, K. Gademann, and R. Kurmayer. 2010. Spatial isolation favours the divergence in microcystin net production by Microcystis in Ugandan freshwater lakes. Water Research 44: 2803–2814. doi:10.1016/j.watres.2010.02.018",5,,5,100,waterbodies,skyblue4,repeat,
+"Orihel, D. M., D. F. Bird, M. Brylinsky, and others. 2012. High microcystin concentrations occur only at low nitrogen-to-phosphorus ratios in nutrient-rich Canadian lakes R.E.H. Smith [ed.]. Can. J. Fish. Aquat. Sci. 69: 1457–1462. doi:10.1139/f2012-088",246,,101,41,waterbodies,skyblue4,mix,"exceeded WHO guideline of >1 ug/L, not total detection"
+"Park, H.-D., B. Kim, E. Kim, and T. Okino. 1998. Hepatotoxic Microcystins and Neurotoxic Anatoxin-a in Cyanobacterial Blooms from Korean Lakes. 11.",12,,9,75,waterbodies,skyblue4,repeat,based on information presented in Table 2
+"Pavlova, V., P. Babica, D. Todorova, Z. Bratanova, and B. Maršálek. 2006. Contamination of some reservoirs and lakes in Republic of Bulgaria by microcystins. Acta hydrochim. hydrobiol. 34: 437–441. doi:10.1002/aheh.200600641",12,,6,50,waterbodies,skyblue4,snapshot,"12 lakes investigated, 6 lakes sampled, 8 samples from those lakes all had detectable microcystin concentrations"
+"Poste, A. E., R. E. Hecky, and S. J. Guildford. 2013. Phosphorus enrichment and carbon depletion contribute to high Microcystis biomass and microcystin concentrations in Ugandan lakes. Limnol. Oceanogr. 58: 1075–1088. doi:10.4319/lo.2013.58.3.1075",8,,8,100,waterbodies,skyblue4,repeat,
+"Prakash, S., L. A. Lawton, and C. Edwards. 2009. Stability of toxigenic Microcystis blooms. Harmful Algae 8: 377–384. doi:10.1016/j.hal.2008.08.014",5,,5,100,waterbodies,skyblue4,repeat,
+"Sinang, S. C., K. B. Poh, S. Shamsudin, and A. Sinden. 2015. Preliminary Assessment of Cyanobacteria Diversity and Toxic Potential in Ten Freshwater Lakes in Selangor, Malaysia. Bull Environ Contam Toxicol 95: 542–547. doi:10.1007/s00128-015-1620-7",10,,10,100,waterbodies,skyblue4,snapshot,
+"Trout-Haney, J., Z. Wood, and K. Cottingham. 2016. Presence of the Cyanotoxin Microcystin in Arctic Lakes of Southwestern Greenland. Toxins 8: 256. doi:10.3390/toxins8090256",18,,18,100,waterbodies,skyblue4,repeat,
+"Turner, A., M. Dhanji-Rapkova, A. O’Neill, L. Coates, A. Lewis, and K. Lewis. 2018. Analysis of Microcystins in Cyanobacterial Blooms from Freshwater Bodies in England. Toxins 10: 39. doi:10.3390/toxins10010039",70,137,72,53,samples,aquamarine3,snapshot,only reported based on the number of samples above 0.2 ug/L
+"Vasconcelos, V. M., K. Sivonen, W. R. Evans, W. W. Carmichael, and M. Namikoshi. 1996. Hepatotoxic microcystin diversity in cyanobacterial blooms collected in portuguese freshwaters. Water Research 30: 2377–2384. doi:10.1016/0043-1354(96)00152-2",9,,9,100,waterbodies,skyblue4,snapshot,collected/targeted bloom samples
+"Vezie, C., L. Brient, K. Sivonen, G. Bertru, J.-C. Lefeuvre, and M. Salkinoja-Salonen. 1997. Occurrence of microcystin-containing cyanobacterial blooms in freshwaters of Brittany (France). archiv_hydrobiologie 139: 401–413. doi:10.1127/archiv-hydrobiol/139/1997/401",29,,25,86.2,waterbodies,skyblue4,snapshot,
+"Willame, R., T. Jurczak, J.-F. Iffly, T. Kull, J. Meriluoto, and L. Hoffmann. 2005. Distribution of Hepatotoxic Cyanobacterial Blooms in Belgium and Luxembourg. Hydrobiologia 551: 99–117. doi:10.1007/s10750-005-4453-2",32,32,17,53.1,samples,aquamarine3,snapshot,"Despite surveying 250 lakes and sampling 49, only quantified microcystin concentration in 32 waterbodies"
+"Wu, X., C. Wang, C. Tian, B. Xiao, and L. Song. 2015. Evaluation of the potential of anoxic biodegradation of intracellular and dissolved microcystins in lake sediments. Journal of Hazardous Materials 286: 395–401. doi:10.1016/j.jhazmat.2015.01.015",30,,30,100,waterbodies,skyblue4,snapshot,
+"Zagajewski, P., R. Go?dyn, and M. Fabi?. 2009. Cyanobacterial volume and microcystin concentration in recreational lakes (Pozna? – Western Poland). Oceanological and Hydrobiological Studies 38: 113–120.",10,,4,40,waterbodies,skyblue4,snapshot,
